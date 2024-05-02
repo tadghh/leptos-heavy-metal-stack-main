@@ -80,5 +80,8 @@ See instructions [here](https://github.com/tailwindlabs/tailwindcss/releases).
 
 ## Sources
 
+Original Project Repository
+https://github.com/benwis/leptos-heavy-metal-stack
+
 Setup Tailwind using the instructions from here:
 https://github.com/gbj/leptos/discussions/125
